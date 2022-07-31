@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MavericDemo</string>
+    <string name="haha_level1">= _ =</string>
+    <string name="haha_level2">0 . 0</string>
+    <string name="haha_level3">^ _ ^</string>
+    <string name="haha_level4">:)</string>
+    <string name="haha_level5">:))</string>
+    <string name="haha_level6">XD</string>
+    <string name="haha_level7">XDDDDDD</string>
+    <string name="tickleTickle">Tickle Tickle</string>
+    <string name="reset">Reset</string>
 </resources>
